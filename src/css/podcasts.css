@@ -1,0 +1,19 @@
+.podcast-no-border {
+	border: 0 !important;
+	box-shadow: none !important;
+}
+
+.podcast-spinner {
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+
+.podcast-image {
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
